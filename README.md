@@ -1,0 +1,2 @@
+# aiai
+projekty ai 
